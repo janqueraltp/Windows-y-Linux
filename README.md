@@ -3,7 +3,7 @@
 
 **Índice**
 1. [Instalar Ubuntu](#id1)
-2. [Sintaxis de un comando](#id2)
+2. [Instalar Windows](#id2)
 
 <div id='id1' />
 
