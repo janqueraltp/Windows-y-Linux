@@ -8,5 +8,4 @@
 <div id='id1' />
 
 ## Instalar Ubuntu [^nombreDeTuNota]
-
-[^nombreDeTuNota]: Aquí irá el texto de tu nota.
+[^nombreDeTuNota]: V-16.04.2
