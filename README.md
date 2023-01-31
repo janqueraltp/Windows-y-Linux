@@ -3,12 +3,12 @@
 
 **Índice**
 1. [Instalar Ubuntu](#id1)
-2. [Spoofing](#id2)
+1.1 [Spoofing Ubuntu](#id2)
 3. [Instalar Windows](#id3)
 
 <div id='id1' />
 
-# Instalar Ubuntu [^nombreDeTuNota]
+# 1. Instalar Ubuntu [^nombreDeTuNota]
 [^nombreDeTuNota]: V-16.04.2
 
 ![image](https://user-images.githubusercontent.com/116662838/215844099-cbb00f1c-34ac-408f-98e1-4d6b58ebdb6b.png)
@@ -30,4 +30,4 @@
 
 <div id='id2' />
 
-# Spoofing
+## 1.1 Spoofing Ubuntu
