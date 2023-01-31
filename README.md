@@ -4,7 +4,8 @@
 **Índice**
 1. [Instalar Ubuntu](#id1)  
 1.1 [Spoofing Ubuntu](#id2)
-3. [Instalar Windows](#id3)
+2. [Instalar Windows](#id3)
+2.1 [Spoofing Ubuntu](#id2)
 
 <div id='id1' />
 
