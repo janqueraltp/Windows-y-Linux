@@ -3,7 +3,8 @@
 
 **Índice**
 1. [Instalar Ubuntu](#id1)
-2. [Instalar Windows](#id2)
+2. [Spoofing](#id2)
+3. [Instalar Windows](#id3)
 
 <div id='id1' />
 
@@ -26,3 +27,7 @@
 ![image](https://user-images.githubusercontent.com/116662838/215849402-d3e6192c-110c-440a-b103-2c2d036ff0ca.png)
 ![image](https://user-images.githubusercontent.com/116662838/215849855-43a2babd-523e-47d3-ae60-5118511f9f01.png)
 
+
+<div id='id3' />
+
+## Spoofing
