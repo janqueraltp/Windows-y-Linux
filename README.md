@@ -18,6 +18,7 @@
 ![image](https://user-images.githubusercontent.com/116662838/215844260-ec9ae651-b23c-427a-a508-f857dcf10591.png)
 ## Custom (Avanzado)
 ![image](https://user-images.githubusercontent.com/116662838/215844291-fa3f67e1-fa21-4bc2-b3fa-f1830aa57838.png)
+## Seleccionamos ISO de Ubuntu [^nombreDeTuNota]
 ![image](https://user-images.githubusercontent.com/116662838/215844368-946dfc13-999c-4562-a37c-cee02660b261.png)
 ![image](https://user-images.githubusercontent.com/116662838/215844774-a94a1f2f-856b-40bf-a852-d0d9738a4067.png)
 ![image](https://user-images.githubusercontent.com/116662838/215844802-10a25d97-f513-4a22-b7a8-5177dc5f95fa.png)
