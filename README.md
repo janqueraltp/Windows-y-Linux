@@ -4,3 +4,7 @@
 **Índice**
 1. [Conceptos generales](#id1)
 2. [Sintaxis de un comando](#id2)
+
+<div id='id1' />
+
+## Conceptos generales
