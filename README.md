@@ -7,4 +7,4 @@
 
 <div id='id1' />
 
-## Conceptos generales
+## Instalar Ubuntu [^nombreDeTuNota]
