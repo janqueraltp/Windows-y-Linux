@@ -3,10 +3,11 @@
 
 **Índice**
 1. [Instalar Ubuntu](#id1)  
-1.1 [Conocer mi IP](#id2)  
-1.2 [Spoofing Ubuntu](#id3)
-4. [Instalar Windows](#id4)  
-5.1 [Spoofing Windows](#id5)
+1.1 [Conocer mi IP](#id2)
+1.2 [Conocer direccion MAC](#id3)
+1.3 [Spoofing Ubuntu](#id4)
+4. [Instalar Windows](#id5)  
+5.1 [Spoofing Windows](#id6)
 
 <div id='id1' />
 
@@ -42,6 +43,10 @@
 
 ## Conocer mi IP
 ![image](https://user-images.githubusercontent.com/116662838/215849402-d3e6192c-110c-440a-b103-2c2d036ff0ca.png)
+
+<div id='id3' />
+
+## Conocer mi direccion MAC
 ![image](https://user-images.githubusercontent.com/116662838/215849855-43a2babd-523e-47d3-ae60-5118511f9f01.png)
 
 
