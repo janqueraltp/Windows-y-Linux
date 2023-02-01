@@ -11,8 +11,8 @@
 
 <div id='id1' />
 
-# 1. Instalar Ubuntu [^nombreDeTuNota]
-[^nombreDeTuNota]: V-16.04.2
+# 1. Instalar Ubuntu [^nota2]
+[^nota1]: V-16.04.2
 
 ## Abrir VM Ware
 ![image](https://user-images.githubusercontent.com/116662838/215844099-cbb00f1c-34ac-408f-98e1-4d6b58ebdb6b.png)
