@@ -1,3 +1,5 @@
+<div id='id100' />
+
 # Práctica 1: Direcciónes IP y MAC en Windows y Linux
 #### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
 
@@ -53,3 +55,19 @@
 <div id='id4' />
 
 ## 1.1 Spoofing Ubuntu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Volver arriba](#id100)  
