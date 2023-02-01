@@ -16,9 +16,9 @@
 # 1. Instalar Ubuntu :computer: [^nota1]
 [^nota1]: V-16.04.2
 
-## Abrir VM Ware :arrow_heading_down:
+## Abrir VM Ware y Seleccionamos Crear Maquina Virtual :arrow_heading_down:
 ![image](https://user-images.githubusercontent.com/116662838/215844099-cbb00f1c-34ac-408f-98e1-4d6b58ebdb6b.png)
-## Seleccionamos Crear Maquina Virtual :arrow_heading_down:
+## Custom (Avanzado) :arrow_heading_down:
 ![image](https://user-images.githubusercontent.com/116662838/215844260-ec9ae651-b23c-427a-a508-f857dcf10591.png)
 ## Custom (Avanzado) :arrow_heading_down:
 ![image](https://user-images.githubusercontent.com/116662838/215844291-fa3f67e1-fa21-4bc2-b3fa-f1830aa57838.png)
