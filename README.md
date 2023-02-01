@@ -2,7 +2,7 @@
 
 # Práctica 1: Direcciónes IP y MAC en Windows y Linux
 ### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
-#### ⚠️ No me declaro responsable del mal uso de esta investigacion ⚠️
+#### ⚠ No me declaro responsable del mal uso de esta investigacion ⚠
 
  ## **Índice**
  1. [Instalar Ubuntu](#id1)  
