@@ -8,8 +8,8 @@
 1.1 [Conocer mi IP](#id2)  
 1.2 [Conocer direccion MAC](#id3)  
 1.3 [Spoofing Ubuntu](#id4)  
-4. [Instalar Windows](#id5)  
-5.1 [Spoofing Windows](#id6)  
+2. [Instalar Windows](#id5)  
+2.1 [Spoofing Windows](#id6)  
 
 # Ubuntu :computer:
 
