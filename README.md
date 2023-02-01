@@ -1,7 +1,7 @@
 <div id='id100' />
 
 # Práctica 1: Direcciónes IP y MAC en Windows y Linux
-### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
+### Redes locales - SMIX - @janqueraltp
 #### ⚠ No me declaro responsable del mal uso de esta investigacion ⚠
 
  ## **Índice**
