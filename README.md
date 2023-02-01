@@ -2,7 +2,7 @@
 #### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
 
 **Índice**
-1. [Instalar Ubuntu](#id1)
+1. [Instalar Ubuntu](#id1)  
 1.1 [Spoofing Ubuntu](#id2)  
 1.2 [Spoofing Ubuntu](#id2)
 4. [Instalar Windows](#id3)  
