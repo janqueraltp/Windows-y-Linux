@@ -3,7 +3,7 @@
 
 **Índice**
 1. [Instalar Ubuntu](#id1)  
-1.1 [Conocer IP](#id2)  
+1.1 [Conocer mi IP](#id2)  
 1.2 [Spoofing Ubuntu](#id3)
 4. [Instalar Windows](#id4)  
 5.1 [Spoofing Windows](#id5)
