@@ -26,11 +26,14 @@
 ![image](https://user-images.githubusercontent.com/116662838/215844802-10a25d97-f513-4a22-b7a8-5177dc5f95fa.png)
 ## Red NAT
 ![image](https://user-images.githubusercontent.com/116662838/215844829-d82a52fb-b2a3-485d-90dc-30a8d09a4598.png)
-## 
+## LSI logic
 ![image](https://user-images.githubusercontent.com/116662838/215844854-d7a1aa19-2465-44b6-a4ef-84f002fd4833.png)
+## SCSI
 ![image](https://user-images.githubusercontent.com/116662838/215844885-16add5d6-efa3-492d-ace0-635449c250b6.png)
+## Nuevo disco
 ![image](https://user-images.githubusercontent.com/116662838/215844902-880d9391-9cbb-4655-852c-261f50e1468f.png)
 ![image](https://user-images.githubusercontent.com/116662838/215844955-36227e13-bc24-402a-9b4f-d125bac1ab8e.png)
+## Instalado
 ![image](https://user-images.githubusercontent.com/116662838/215845340-ea4bede9-7f60-4e9f-b2d1-94171983fa96.png)
 ![image](https://user-images.githubusercontent.com/116662838/215848843-0a5a1708-7729-4377-877e-e5f6f526a2ed.png)
 ![image](https://user-images.githubusercontent.com/116662838/215849402-d3e6192c-110c-440a-b103-2c2d036ff0ca.png)
