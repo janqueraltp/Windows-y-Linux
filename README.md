@@ -3,11 +3,11 @@
 
 **Índice**
 1. [Instalar Ubuntu](#id1)  
-1.1 [Conocer mi IP](#id2)
-1.2 [Conocer direccion MAC](#id3)
-1.3 [Spoofing Ubuntu](#id4)
+1.1 [Conocer mi IP](#id2)  
+1.2 [Conocer direccion MAC](#id3)  
+1.3 [Spoofing Ubuntu](#id4)  
 4. [Instalar Windows](#id5)  
-5.1 [Spoofing Windows](#id6)
+5.1 [Spoofing Windows](#id6)  
 
 <div id='id1' />
 
