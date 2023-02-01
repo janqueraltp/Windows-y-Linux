@@ -39,7 +39,7 @@
 ### Nuevo disco :arrow_heading_down:
 ![image](https://user-images.githubusercontent.com/116662838/215844902-880d9391-9cbb-4655-852c-261f50e1468f.png)
 ![image](https://user-images.githubusercontent.com/116662838/215844955-36227e13-bc24-402a-9b4f-d125bac1ab8e.png)
-### Instalado :arrow_heading_down:
+### Instalado :white_check_mark:  
 ![image](https://user-images.githubusercontent.com/116662838/215845340-ea4bede9-7f60-4e9f-b2d1-94171983fa96.png)
 ![image](https://user-images.githubusercontent.com/116662838/215848843-0a5a1708-7729-4377-877e-e5f6f526a2ed.png)
 
