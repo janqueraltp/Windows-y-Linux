@@ -4,9 +4,9 @@
 **Índice**
 1. [Instalar Ubuntu](#id1)  
 1.1 [Conocer IP](#id2)  
-1.2 [Spoofing Ubuntu](#id2)
-4. [Instalar Windows](#id3)  
-5.1 [Spoofing Windows](#id2)
+1.2 [Spoofing Ubuntu](#id3)
+4. [Instalar Windows](#id4)  
+5.1 [Spoofing Windows](#id5)
 
 <div id='id1' />
 
@@ -37,11 +37,14 @@
 ## Instalado
 ![image](https://user-images.githubusercontent.com/116662838/215845340-ea4bede9-7f60-4e9f-b2d1-94171983fa96.png)
 ![image](https://user-images.githubusercontent.com/116662838/215848843-0a5a1708-7729-4377-877e-e5f6f526a2ed.png)
-##
+
+<div id='id2' />
+
+## Conocer mi IP
 ![image](https://user-images.githubusercontent.com/116662838/215849402-d3e6192c-110c-440a-b103-2c2d036ff0ca.png)
 ![image](https://user-images.githubusercontent.com/116662838/215849855-43a2babd-523e-47d3-ae60-5118511f9f01.png)
 
 
-<div id='id2' />
+<div id='id3' />
 
 ## 1.1 Spoofing Ubuntu
