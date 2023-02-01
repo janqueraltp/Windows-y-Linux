@@ -45,7 +45,7 @@
 
 <div id='id2' />
 
-## Conocer mi IP
+## Conocer mi IP :shipit:
 ![image](https://user-images.githubusercontent.com/116662838/215849402-d3e6192c-110c-440a-b103-2c2d036ff0ca.png)
 
 <div id='id3' />
