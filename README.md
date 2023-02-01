@@ -3,13 +3,13 @@
 # Práctica 1: Direcciónes IP y MAC en Windows y Linux
 #### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
 
-### **Índice**
-#### 1. [Instalar Ubuntu](#id1)  
-#### 1.1 [Conocer mi IP](#id2)  
-#### 1.2 [Conocer direccion MAC](#id3)  
-#### 1.3 [Spoofing Ubuntu](#id4)  
-#### 2. [Instalar Windows](#id5)  
-#### 2.1 [Spoofing Windows](#id6)  
+ **Índice**
+ 1. [Instalar Ubuntu](#id1)  
+ 1.1 [Conocer mi IP](#id2)  
+ 1.2 [Conocer direccion MAC](#id3)  
+ 1.3 [Spoofing Ubuntu](#id4)  
+ 2. [Instalar Windows](#id5)  
+ 2.1 [Spoofing Windows](#id6)  
 
 # Ubuntu :computer:
 
