@@ -11,11 +11,11 @@
 4. [Instalar Windows](#id5)  
 5.1 [Spoofing Windows](#id6)  
 
-# UBUNTU
+# Ubuntu :computer:
 
 <div id='id1' />
 
-## 1. Instalar Ubuntu :computer: [^nota1]
+## 1. Instalar Ubuntu [^nota1]
 [^nota1]: V-16.04.2
 
 ### Abrir VM Ware y Seleccionamos Crear Maquina Virtual :arrow_heading_down:
