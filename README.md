@@ -4,7 +4,7 @@
 ### Redes locales - SMIX - [@janqueraltp](https://github.com/janqueraltp).
 #### ⚠️ No me declaro responsable del mal uso de esta investigacion ⚠️
 
- **Índice**
+ ## **Índice**
  1. [Instalar Ubuntu](#id1)  
  1.1 [Conocer mi IP](#id2)  
  1.2 [Conocer direccion MAC](#id3)  
