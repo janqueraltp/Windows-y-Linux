@@ -57,7 +57,14 @@ Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
 <div id='id4' />
 
 ## 1.1 Spoofing Ubuntu
-x
+![image](https://user-images.githubusercontent.com/116662838/217061983-0cdebb16-a48b-4482-9b5d-bedee9bb1eb1.png)
+![image](https://user-images.githubusercontent.com/116662838/217062073-2b2b051f-6069-49e0-b3f1-89e766acc36a.png)
+![image](https://user-images.githubusercontent.com/116662838/217062132-057f2ea9-b312-4d23-9650-9b6aef4bea9b.png)
+![image](https://user-images.githubusercontent.com/116662838/217062247-d7a5930b-36c3-488d-b436-7a80d6a21344.png)
+![image](https://user-images.githubusercontent.com/116662838/217064251-28b6222e-1f89-45a9-a3b9-8749223c7e7f.png)
+![image](https://user-images.githubusercontent.com/116662838/217064340-5cc8ee89-7105-4fec-9a71-e44062fdb8f2.png)
+
+
 
 
 
