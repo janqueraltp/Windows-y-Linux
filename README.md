@@ -37,7 +37,7 @@ Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
 ## 1.1 Spoofing Ubuntu
 
 ### Abrimos la terminal
-![image](https://user-images.githubusercontent.com/116662838/217061983-0cdebb16-a48b-4482-9b5d-bedee9bb1eb1.png)
+![image](img/img3.png)
 
 ```
 ip link show
