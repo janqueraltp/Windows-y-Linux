@@ -54,7 +54,7 @@ sudo ip link set dev ens33 address 74:d0:3b:9f:d8:48
 ```
 ip link show
 ```
-![image](https://user-images.githubusercontent.com/116662838/217329696-b05ac2ed-bc33-4c50-ad09-d741ad95b039.png)
+![image](img/img6.png)
 
 
 
