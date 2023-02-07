@@ -66,8 +66,16 @@ ip link show
 ```
 ![image](https://user-images.githubusercontent.com/116662838/217329041-1c618914-23ea-42fd-9641-fbe226764ab5.png)
 
+
+```
+sudo ip link set dev ens33 address 74:d0:3b:9f:d8:48
+```
 ![image](https://user-images.githubusercontent.com/116662838/217329626-eae44134-33c4-4ad8-8c44-5cc3a6af75eb.png)
 
+
+```
+ip link show
+```
 ![image](https://user-images.githubusercontent.com/116662838/217329696-b05ac2ed-bc33-4c50-ad09-d741ad95b039.png)
 
 
