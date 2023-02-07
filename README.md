@@ -75,8 +75,7 @@ ip link show
 ip link set dev ens33
 ```
 ![image](https://user-images.githubusercontent.com/116662838/217062247-d7a5930b-36c3-488d-b436-7a80d6a21344.png)
-![image](https://user-images.githubusercontent.com/116662838/217064251-28b6222e-1f89-45a9-a3b9-8749223c7e7f.png)
-![image](https://user-images.githubusercontent.com/116662838/217064340-5cc8ee89-7105-4fec-9a71-e44062fdb8f2.png)
+
 
 
 
