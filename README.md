@@ -101,7 +101,7 @@ ipconfig
 <div id='id45' />
 
 ## Conocer direccion MAC
-
+![image](img/Captura.PNG)
 
 
 
