@@ -22,7 +22,7 @@
 
 <div id='id2' />
 
-## Conocer mi IP :shipit:
+# Conocer mi IP :shipit:
 
 ```
 hostname -i
@@ -31,14 +31,14 @@ hostname -i
 
 <div id='id3' />
 
-## Conocer mi direccion MAC
+# Conocer mi direccion MAC
 ### Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
 ![image](img/img2.png)
 
 
 <div id='id4' />
 
-## 1.1 Spoofing Ubuntu
+# 1.1 Spoofing Ubuntu
 
 ### Abrimos la terminal
 ![image](img/img3.png)
@@ -69,7 +69,7 @@ ip link show
 
 <div id='id44' />
 
-## Conocer mi IP :shipit:
+# Conocer mi IP :shipit:
 
 ```
 ipconfig
@@ -80,17 +80,17 @@ ipconfig
 
 <div id='id45' />
 
-## Conocer direccion MAC
+# Conocer direccion MAC
 ***Configuracion / Estado de red / Propiedades***  
 
 ![image](img/Captura.PNG)
 
 
 
+# Spoofing Windows
 
 
 
-
-
+<div id='id46' />
 
 # [Volver arriba ⬆️](#id100)  
