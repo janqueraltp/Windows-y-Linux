@@ -1,6 +1,7 @@
 <div id='id100' />
 
 # Práctica 1: Direcciónes IP y MAC en Windows y Linux
+### Jan Queralt y Ivan Molina
 
  ## **Índice**
  1. [***Ubuntu***](#id1)  
