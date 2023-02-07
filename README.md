@@ -23,6 +23,10 @@
 <div id='id2' />
 
 ## Conocer mi IP :shipit:
+
+```
+hostname -i
+```
 ![image](img/img1.png)
 
 <div id='id3' />
