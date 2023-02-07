@@ -7,7 +7,7 @@
  1.1 [Conocer mi IP](#id2)  
  1.2 [Conocer direccion MAC](#id3)  
  1.3 [Spoofing Ubuntu](#id4)  
- 2. [Instalar Windows](#id5)  
+ 2. [Windows](#id5)  
  2.1 [Spoofing Windows](#id6)  
 
 # Ubuntu :computer:
@@ -80,8 +80,11 @@ ip link show
 
 
 
+<div id='id5' />
 
+# Windows :computer:
 
+## Conocer mi IP :shipit:
 
 
 
