@@ -88,12 +88,16 @@ ipconfig
 
 
 # Spoofing Windows
-### Abrimos ***Administrador de dispositivos***. 
-### Expandimos la seccion de ***Adaptadores de red***. 
-### ***Boton derecho y propiedades*** en tu adaptador. 
-### Haz click en ***opciones avanzadas***. 
-### Ingresamos una nueva MAC en ***Value***. 
-### Reinicia tu PC para aplicar los canvios. 
+Entrar a Administrador de Dispositivos.
+Seleccionar el apartado de Adaptadores de Red.
+Escogemos la interfaz de red a la que queremos cambiar la dirección MAC.
+Hacemos clic derecho en lo escogido y seleccionamos la opción «Propiedades«.
+Pasamos a la pestaña «Opciones Avanzadas«, luego a la cajita de «Propiedad» y nos encontraremos con Direcciones Administradas Localmente o Locally Administered Address
+Fíjate en el campo de texto (Valor) en donde se encuentra la dirección MAC y siéntete libre de borrarlo y cambiarlo
+Acto seguido, vuelve a introducir la dirección MAC de tu preferencia, respetando el formato y sin separadores/espacios.
+Reinicia el ordenador
+Vuelve a ejecutar el cmd
+Escribes «ipconfig/all» y listo: dirección MAC alterada.
 
 
 <div id='id46' />
