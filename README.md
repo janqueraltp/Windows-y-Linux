@@ -86,6 +86,11 @@ ip link show
 
 ## Conocer mi IP :shipit:
 
+```
+ipconfig
+```
+![image](https://user-images.githubusercontent.com/116662838/217331043-93213ccb-f993-4307-a12d-00d666d85f17.png)
+
 
 
 
