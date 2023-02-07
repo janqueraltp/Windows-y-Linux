@@ -32,8 +32,8 @@ hostname -i
 
 <div id='id3' />
 
-# Conocer mi direccion MAC
-### Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
+# Conocer mi dirección MAC
+### Abrir aplicación RED. Donde pone dirección física, eso es nuestra dirección MAC
 ![image](img/img2.png)
 
 
@@ -81,8 +81,8 @@ ipconfig
 
 <div id='id45' />
 
-# Conocer direccion MAC
-***Configuracion / Estado de red / Propiedades***  
+# Conocer dirección MAC
+***Configuración / Estado de red / Propiedades***  
 
 ![image](img/Captura.PNG)
 
