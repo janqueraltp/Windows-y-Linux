@@ -8,7 +8,9 @@
  1.2 [Conocer direccion MAC](#id3)  
  1.3 [Spoofing Ubuntu](#id4)  
  2. [Windows](#id5)  
- 2.1 [Spoofing Windows](#id6)  
+ 2.1 [Conocer mi IP](#id44)  
+ 2.2 [Conocer direccion MAC](#id45)  
+ 4.1 [Spoofing Windows](#id6)  
 
 # Ubuntu :computer:
 
@@ -84,6 +86,9 @@ ip link show
 
 # Windows :computer:
 
+
+<div id='id44' />
+
 ## Conocer mi IP :shipit:
 
 ```
@@ -92,6 +97,10 @@ ipconfig
 ![image](https://user-images.githubusercontent.com/116662838/217331043-93213ccb-f993-4307-a12d-00d666d85f17.png)
 
 
+
+<div id='id45' />
+
+## Conocer direccion MAC
 
 
 
