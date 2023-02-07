@@ -10,7 +10,6 @@
  2. [Windows](#id5)  
  2.1 [Conocer mi IP](#id44)  
  2.2 [Conocer direccion MAC](#id45)  
- 4.1 [Spoofing Windows](#id6)  
 
 # Ubuntu :computer:
 
