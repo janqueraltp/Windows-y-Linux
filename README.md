@@ -42,7 +42,7 @@ Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
 ```
 ip link show
 ```
-![image](https://user-images.githubusercontent.com/116662838/217329041-1c618914-23ea-42fd-9641-fbe226764ab5.png)
+![image](img/img4.png)
 
 
 ```
