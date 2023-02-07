@@ -32,7 +32,7 @@ hostname -i
 <div id='id3' />
 
 ## Conocer mi direccion MAC
-Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
+### Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
 ![image](img/img2.png)
 
 
