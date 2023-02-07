@@ -88,7 +88,12 @@ ipconfig
 
 
 # Spoofing Windows
-### Abrimos ***Administrador de dispositivos***. Expandimos la seccion de ***Adaptadores de red***. ***Boton derecho y propiedades*** en tu adaptador. Haz click en ***opciones avanzadas***. Ingresamos una nueva MAC en ***Value***. Reinicia tu PC para aplicar los canvios. 
+### Abrimos ***Administrador de dispositivos***. 
+### Expandimos la seccion de ***Adaptadores de red***. 
+### ***Boton derecho y propiedades*** en tu adaptador. 
+### Haz click en ***opciones avanzadas***. 
+### Ingresamos una nueva MAC en ***Value***. 
+### Reinicia tu PC para aplicar los canvios. 
 
 
 <div id='id46' />
