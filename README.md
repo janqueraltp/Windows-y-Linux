@@ -61,20 +61,7 @@ Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
 ### Abrimos la terminal
 ![image](https://user-images.githubusercontent.com/116662838/217061983-0cdebb16-a48b-4482-9b5d-bedee9bb1eb1.png)
 
-```
-sudo -i
-```
-![image](https://user-images.githubusercontent.com/116662838/217062073-2b2b051f-6069-49e0-b3f1-89e766acc36a.png)
-
-```
-ip link show
-```
-![image](https://user-images.githubusercontent.com/116662838/217062132-057f2ea9-b312-4d23-9650-9b6aef4bea9b.png)
-
-```
-ip link set dev ens33
-```
-![image](https://user-images.githubusercontent.com/116662838/217062247-d7a5930b-36c3-488d-b436-7a80d6a21344.png)
+![image](https://user-images.githubusercontent.com/116662838/217329041-1c618914-23ea-42fd-9641-fbe226764ab5.png)
 
 
 
