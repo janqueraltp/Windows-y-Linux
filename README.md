@@ -3,11 +3,11 @@
 # Práctica 1: Direcciónes IP y MAC en Windows y Linux
 
  ## **Índice**
- 1. [**Ubuntu**](#id1)  
+ 1. [***Ubuntu***](#id1)  
  1.1 [Conocer mi IP](#id2)  
  1.2 [Conocer direccion MAC](#id3)  
  1.3 [Spoofing Ubuntu](#id4)  
- 2. [**Windows**](#id5)  
+ 2. [***Windows***](#id5)  
  2.1 [Conocer mi IP](#id44)  
  2.2 [Conocer direccion MAC](#id45)  
  2.3 [Spoofing Windows](#id46)
