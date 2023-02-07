@@ -3,7 +3,7 @@
 # Práctica 1: Direcciónes IP y MAC en Windows y Linux
 
  ## **Índice**
- 1. [Instalar Ubuntu](#id1)  
+ 1. [Ubuntu](#id1)  
  1.1 [Conocer mi IP](#id2)  
  1.2 [Conocer direccion MAC](#id3)  
  1.3 [Spoofing Ubuntu](#id4)  
@@ -102,6 +102,7 @@ ipconfig
 
 ## Conocer direccion MAC
 ***Configuracion / Estado de red / Propiedades***  
+
 ![image](img/Captura.PNG)
 
 
