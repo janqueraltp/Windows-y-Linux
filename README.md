@@ -29,7 +29,7 @@
 
 ## Conocer mi direccion MAC
 Abrir aplicacion RED. Donde pone direccion fisica, eso es nuestra direccion MAC
-![image](https://user-images.githubusercontent.com/116662838/215849855-43a2babd-523e-47d3-ae60-5118511f9f01.png)
+![image](img/img2.png)
 
 
 <div id='id4' />
